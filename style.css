@@ -2,7 +2,10 @@
    display: flex;
 }
 header{
-    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
 }
 
 body{
