@@ -1,5 +1,5 @@
 .tam{
-    width: 100%;
+   display: none;
 }
 
 body{
@@ -11,8 +11,8 @@ body{
 
 
 @media screen and (min-width: 1024px){
-    .tam{
-        width: 50%;
-    }
+.tam{
+    display: block;
+}
     
 }
