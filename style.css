@@ -1,14 +1,13 @@
-*{
-    margin: 0;
-    
-}
 .tam{
-   display: 10px; ;
+   display: flex;
+}
+header{
+    color: #FFFFFF;
 }
 
 body{
     background-color: #101728;
-    color: #FFFFFF;
+
 }
 
 
