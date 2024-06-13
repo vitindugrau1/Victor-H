@@ -10,9 +10,9 @@ body{
     background-color: #101728;
 color: #FFFFFF;
 }
-
-
-
+section{
+    align-items: center;
+}
 
 
 @media screen and (min-width: 1024px){
