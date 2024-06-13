@@ -14,7 +14,7 @@ div{
     display: grid;
     align-items: baseline;
     justify-content: space-evenly;
-    align-content: space-evenly;
+    align-content: space-between;
     justify-items: center;
 }
 
