@@ -1,6 +1,10 @@
+header{
+     text-align: center;
+     padding: 20px;
+}
 
 .tam{
-   width: 70%;
+   width: 50%;
    display: block;
    margin-left: 0;
 margin-right: 0;
