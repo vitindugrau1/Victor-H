@@ -25,7 +25,9 @@ body{
     background-color: #101728;
 color: #FFFFFF;
 }
-div{
+.row{
+    display: flex;
+    flex-wrap: wrap;
 
 }
 .meio{
