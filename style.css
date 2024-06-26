@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 header{
      text-align: center;
      padding: 20px;
@@ -28,6 +31,10 @@ div{
     align-content: space-between;
     justify-items: center;
 }
+.meio{
+
+}
+
 @media screen and (min-width:1024px;)  {
     .tam{
         display: block;
