@@ -2,6 +2,11 @@ header{
      text-align: center;
      padding: 20px;
 }
+nav{
+    text-align: center;
+    word-spacing: 30px;
+    padding: 10px;
+}
 
 .tam{
    width: 50%;
