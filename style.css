@@ -15,7 +15,7 @@ nav{
 
 .tam{
 
-   width: 50%;
+   width: 40%;
    display: block;
    margin-left: 0;
 margin-right: 0;
@@ -39,10 +39,7 @@ div{
         display: block;
     }
 }
-div .titulo{
-    font-variant: normal;
-}
-  
+ 
 
 
 
