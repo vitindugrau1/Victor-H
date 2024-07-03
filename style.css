@@ -39,7 +39,9 @@ div{
         display: block;
     }
 }
-
+div .titulo{
+    font-variant: normal;
+}
   
 
 
